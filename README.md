@@ -29,10 +29,12 @@ A simple automatic light system using an **HC-SR04 ultrasonic sensor, Arduino Un
 10. When the object comes within the set distance, the LED automatically turns **ON**.  
 11. When the object moves away, the LED turns **OFF**.
 
-### **![][image1]**
+### **SIMULATION**
+
+![](IMG-20260921-WA0013.jpg)
 
 **RESULT**  
-**![][image2]**
+![](IMG-20260921-WA0014.jpg)
 
 ### **Notes**
 
